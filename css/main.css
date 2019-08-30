@@ -1,0 +1,90 @@
+.menu ul li a:hover{
+    color: blue;
+    font-size: 18px;
+    border-bottom: 2px solid #ccc;
+}
+.formulario{
+    /* background: #ccc; */
+    border-radius: 10px 10px 10px 10px;
+    /* box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3); */
+    box-shadow: 0 10px 30px 0 rgba(0,0,0,0.3);
+
+}
+
+.deptoGuate svg{
+fill: #044B94;
+fill-opacity:0.4;
+}
+
+#peten:hover{
+    fill-opacity: 0.7;
+}
+
+#jutiapa:hover{
+    fill-opacity: 0.7;
+}
+
+#santaRosa:hover{
+    fill-opacity: 0.7;
+}
+
+#escuintla:hover{
+    fill-opacity: 0.7;
+}
+
+#suchitepequez:hover{
+    fill-opacity: 0.7;
+}
+
+#retalulehu:hover{
+    fill-opacity: 0.7;
+}
+
+#ciudadGuatemala:hover{
+    fill-opacity: 0.7;
+}
+#chimaltenango:hover{
+    fill-opacity: 0.7;
+}
+#sacatepequez:hover{
+    fill-opacity: 0.7;
+}
+#chiquimula:hover{
+    fill-opacity: 0.7;
+}
+#jalapa:hover{
+    fill-opacity: 0.7;
+}
+#sanMarcos:hover{
+    fill-opacity: 0.7;
+}
+#quetzaltenango:hover{
+    fill-opacity: 0.7;
+}
+#solola:hover{
+    fill-opacity: 0.7;
+}
+#elProgreso:hover{
+    fill-opacity: 0.7;
+}
+#zacapa:hover{
+    fill-opacity: 0.7;
+}
+#quiche:hover{
+    fill-opacity: 0.7;
+}
+#totonicapan:hover{
+    fill-opacity: 0.7;
+}
+#bajaVerapaz:hover{
+    fill-opacity: 0.7;
+}
+#izabal:hover{
+    fill-opacity: 0.7;
+}
+#huehuetenango:hover{
+    fill-opacity: 0.7;
+}
+#altaVerapaz:hover{
+    fill-opacity: 0.7;
+}
